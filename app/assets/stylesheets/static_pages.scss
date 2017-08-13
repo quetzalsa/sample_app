@@ -2,10 +2,16 @@
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
 html {
-  background-color: black;
-  color: white;
+  background: linear-gradient(#19e5c0, #039f96);
+  height: 100%;
+}
+h1 {
+  text-align: center;
 }
 p {
-  background-color: blue;
-  color: white;
+  background-color: #039f96;
+  color: #19e5c0;
+  text-align: center;
+  width: 30%;
+  margin: auto;
 }
